@@ -60,7 +60,7 @@ Environmental Impact Tracking Solution
 
 ## 📫 Let's Connect
 - LinkedIn: [muhammad-hariss](https://linkedin.com/in/muhammad-hariss)
-- Email: m.hariss123@gmail.com
+- Email: hariss.muhammad.101@gmail.com
 
 ---
 ⭐️ From [m-Hariss](https://github.com/m-Hariss)
