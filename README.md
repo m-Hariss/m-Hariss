@@ -1,65 +1,26 @@
-# Hi there 👋 I'm Muhammad Hariss
+Hi there 👋, i'm Muhammad Hariss
 
-Senior Software Engineer specializing in AI-driven platforms and scalable web applications. With 7+ years of experience, I focus on building high-performance solutions using React.js, Next.js, Python/Django, and modern cloud technologies.
+⚙️ I use daily: Python, Django, React.js, AWS, Docker, AI/ML, Microservices
 
-## 🚀 Current Focus
-- Building and managing SaaS, LMS, ERP, CRM, e-commerce, fintech and edtech products
-- Implementing AI integrations with cutting-edge LLM technologies
+🔭 Working on: AI-driven SaaS platforms, ERP solutions, fintech products, and what else...
 
-## 🛠️ Tech Stack
+💅 Expertise: 
+- Full-stack Development (Javascript, Python)
+- AI Integration (ChatGPT, Claude, Grok)
+- Cloud & DevOps (AWS, Docker, Kubernetes)
+- System Architecture (DDD, CQRS, Event Sourcing)
 
-**Frontend**
-- React.js, Next.js, Vue.js, TypeScript
-- Redux, Tailwind CSS, Chakra UI, Material-UI
-- Styled Components, UI/UX Design, Figma
+🌱 Learning all about OpenAI, LLMs, Voice Processing, Cloud Architecture
 
-**Backend**
-- Python (Django, Flask, FastAPI)
-- Node.js (Express)
-- Event Sourcing, Kafka, RabbitMQ
-- RESTful APIs, GraphQL
+💬 Ping me about AI Solutions, Microservices Architecture, Full-stack Development & System Design
 
-**AI/ML**
-- LLM Integration (ChatGPT, GPT Models)
-- Audio/Voice Processing
-- Integration with OpenAI, Claude, Grok, ElevenLabs
+📫 Reach me: hariss.muhammad.101@gmail.com
 
-**DevOps & Cloud**
-- AWS (EC2, S3, RDS, CloudFront, Lambda)
-- Docker, Kubernetes, Terraform
-- CI/CD (Jenkins, GitLab CI/CD)
+🚀 Notable Projects:
+- Stammer.ai: AI chatbot platform ($35K+ MRR)
+- Workstream ERP: 80% automation, 95% reporting accuracy
+- Carbon Offset Platform: Real-time emissions tracking
 
-## 🏆 Notable Projects
-
-### [Stammer.ai](https://stammer.ai)
-White-labeling platform for AI Agents
-- Generates $35,000+ MRR, rapidly scaling
-- Built with Django, React, MaterialUI
-- Integrates OpenAI, Claude, Grok, ElevenLabs
-- Serves thousands of users with scalable architecture
-
-### Workstream ERP
-Enterprise Resource Planning Solution
-- Reduced manual work by 80%
-- Increased financial reporting accuracy by 95%
-- Implemented microservices architecture
-- Enhanced customer satisfaction by 60%
-
-### Carbon Offset Platform
-Environmental Impact Tracking Solution
-- Real-time carbon emissions calculation
-- Stripe integration for carbon credits
-- AWS-based microservices architecture
-
-## 🎓 Education & Achievements
-- Bachelor's in Computer Science, University of Punjab
+⚡️ Fun facts: 
 - ICPC Speed Programming Champion
 - Principal's Honors & 100% Scholarship Holder
-- React Nanodegree from Udacity
-
-## 📫 Let's Connect
-- LinkedIn: [muhammad-hariss](https://linkedin.com/in/muhammad-hariss)
-- Email: hariss.muhammad.101@gmail.com
-
----
-⭐️ From [m-Hariss](https://github.com/m-Hariss)
