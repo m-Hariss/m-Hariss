@@ -1,6 +1,6 @@
 Hi there 👋, i'm Muhammad Hariss
 
-⚙️ I use daily: Python, Django, React.js, AWS, Docker, AI/ML, Microservices
+⚙️ I use daily: Python, Javascript, AWS, Docker, AI/ML, Microservices
 
 🔭 Working on: AI-driven SaaS platforms, ERP solutions, fintech products, and what else...
 
