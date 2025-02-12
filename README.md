@@ -3,7 +3,6 @@
 Senior Software Engineer specializing in AI-driven platforms and scalable web applications. With 7+ years of experience, I focus on building high-performance solutions using React.js, Next.js, Python/Django, and modern cloud technologies.
 
 ## 🚀 Current Focus
-- Leading development of scalable web, mobile, cloud, and AI solutions at Evolve Edge Technologies
 - Building and managing SaaS, LMS, ERP, CRM, e-commerce, fintech and edtech products
 - Implementing AI integrations with cutting-edge LLM technologies
 
